@@ -1,1 +1,2 @@
-# code-n-counter
+# Crop Yield Predictor
+A flask based web application which takes in no input, gets the location using mozilla web api and then converts the location to longitude and latitude position. It then recommends a crop that should be grown in the region according to the previous data about the nearing region and the time of year or season. Since its a web app that has been made for farmers, the output is not english text, rather its hindi audio output.
